@@ -3,6 +3,7 @@ package main
 import (
 	"bufio"
 	"fmt"
+	"github.com/drjole/aoc/util"
 	"math"
 	"os"
 	"strconv"
@@ -58,7 +59,7 @@ func first() int {
 	}
 	smallestDistance := math.MaxInt
 	result := new([][]string)
-	permutations(result, len(keys), keys)
+	util.Permutations(result, keys, len(keys))
 	for _, permutation := range *result {
 		distance := 0
 		for i, city := range permutation[:len(permutation)-1] {
@@ -114,7 +115,7 @@ func second() int {
 	}
 	longestDistance := 0
 	result := new([][]string)
-	permutations(result, len(keys), keys)
+	util.Permutations(result, keys, len(keys))
 	for _, permutation := range *result {
 		distance := 0
 		for i, city := range permutation[:len(permutation)-1] {
@@ -130,26 +131,4 @@ func second() int {
 		}
 	}
 	return longestDistance
-}
-
-// permutations implements Heap's algorithm to generate all permutations of an array.
-// https://en.wikipedia.org/wiki/Heap%27s_algorithm
-func permutations(result *[][]string, k int, l []string) {
-	if k == 1 {
-		c := make([]string, len(l))
-		copy(c, l)
-		*result = append(*result, c)
-		return
-	}
-
-	permutations(result, k-1, l)
-
-	for i := 0; i < k-1; i++ {
-		if k%2 == 0 {
-			l[i], l[k-1] = l[k-1], l[i]
-		} else {
-			l[0], l[k-1] = l[k-1], l[0]
-		}
-		permutations(result, k-1, l)
-	}
 }
