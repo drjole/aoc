@@ -10,7 +10,7 @@ These are my attempts at solving the [Advent of Code](https://adventofcode.com) 
 | [2018][2018] |           | 0   |
 | [2017][2017] |           | 0   |
 | [2016][2016] |           | 0   |
-| [2015][2015] | ![ Go][1] | 24  |
+| [2015][2015] | ![ Go][1] | 26  |
 
 [2021]: https://adventofcode.com/2021
 
