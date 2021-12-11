@@ -9,7 +9,7 @@ These are my attempts at solving the [Advent of Code](https://adventofcode.com) 
 | [2019][2019] |              | 0   |
 | [2018][2018] |              | 0   |
 | [2017][2017] |              | 0   |
-| [2016][2016] | ![Python][2] | 2   |
+| [2016][2016] | ![Python][2] | 4   |
 | [2015][2015] | ![ Go][1]    | 50  |
 
 
