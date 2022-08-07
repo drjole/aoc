@@ -6,7 +6,7 @@ These are my attempts at solving the [Advent of Code](https://adventofcode.com) 
 ![ Go][1]
 ## [2020][2020] ✨ 20
 ![ Go][1]
-## [2019][2019] ✨ 8 
+## [2019][2019] ✨ 10 
 ![ Rust][3]
 ## [2018][2018] ✨ 0
 ## [2017][2017] ✨ 0
