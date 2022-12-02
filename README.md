@@ -2,6 +2,8 @@
 
 These are my attempts at solving the [Advent of Code](https://adventofcode.com) programming puzzles.
 
+## [2022][2022] ✨ 2
+![ Rust][3]
 ## [2021][2021] ✨ 26
 ![ Go][1]
 ## [2020][2020] ✨ 20
@@ -14,6 +16,8 @@ These are my attempts at solving the [Advent of Code](https://adventofcode.com) 
 ![Python][2]
 ## [2015][2015] ✨ 50
 ![ Go][1]
+
+[2022]: https://adventofcode.com/2022
 
 [2021]: https://adventofcode.com/2021
 
