@@ -10,7 +10,8 @@ These are my attempts at solving the [Advent of Code](https://adventofcode.com) 
 ![ Go][1]
 ## [2019][2019] ✨ 18 
 ![ Rust][3]
-## [2018][2018] ✨ 0
+## [2018][2018] ✨ 2
+![ Rust][3]
 ## [2017][2017] ✨ 0
 ## [2016][2016] ✨ 4
 ![Python][2]
