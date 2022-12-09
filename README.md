@@ -2,7 +2,7 @@
 
 These are my attempts at solving the [Advent of Code](https://adventofcode.com) programming puzzles.
 
-## [2022][2022] ✨ 16
+## [2022][2022] ✨ 18
 ![ Rust][3]
 ## [2021][2021] ✨ 26
 ![ Go][1]
