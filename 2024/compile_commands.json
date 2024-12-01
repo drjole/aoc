@@ -1,0 +1,7 @@
+[
+    {
+        "directory": "/home/jole/code/aoc/2024/day1",
+        "arguments": ["/usr/bin/gcc", "-Wall", "-Wextra", "-Wpedantic", "main.c"]
+        "file": "main.c"
+    }
+]
