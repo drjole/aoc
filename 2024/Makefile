@@ -8,7 +8,7 @@ all:
 
 %:
 	@if [ -d day$@ ]; then \
-		cd day$@ && $(CC) $(CFLAGS) main.c && ./a.out; \
+		cd day$@ && $(CC) $(CFLAGS) main.c ../utils.c && ./a.out; \
 	else \
 		echo "Directory day$@ does not exist."; \
 	fi
