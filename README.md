@@ -2,7 +2,7 @@
 
 These are my attempts at solving the [Advent of Code](https://adventofcode.com) programming puzzles.
 
-## [2024][2024] ✨ 16
+## [2024][2024] ✨ 18
 
 ![C]
 
