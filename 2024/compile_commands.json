@@ -1,302 +1,303 @@
 [
-  {
-    "directory": "/home/jole/code/aoc/2024/day1",
-    "arguments": [
-      "/usr/bin/gcc",
-      "-Wall",
-      "-Wextra",
-      "-Wpedantic",
-      "main.c",
-      "../utils.c"
-    ],
-    "file": "main.c"
-  },
-  {
-    "directory": "/home/jole/code/aoc/2024/day2",
-    "arguments": [
-      "/usr/bin/gcc",
-      "-Wall",
-      "-Wextra",
-      "-Wpedantic",
-      "main.c",
-      "../utils.c"
-    ],
-    "file": "main.c"
-  },
-  {
-    "directory": "/home/jole/code/aoc/2024/day3",
-    "arguments": [
-      "/usr/bin/gcc",
-      "-Wall",
-      "-Wextra",
-      "-Wpedantic",
-      "main.c",
-      "../utils.c"
-    ],
-    "file": "main.c"
-  },
-  {
-    "directory": "/home/jole/code/aoc/2024/day4",
-    "arguments": [
-      "/usr/bin/gcc",
-      "-Wall",
-      "-Wextra",
-      "-Wpedantic",
-      "main.c",
-      "../utils.c"
-    ],
-    "file": "main.c"
-  },
-  {
-    "directory": "/home/jole/code/aoc/2024/day5",
-    "arguments": [
-      "/usr/bin/gcc",
-      "-Wall",
-      "-Wextra",
-      "-Wpedantic",
-      "main.c",
-      "../utils.c"
-    ],
-    "file": "main.c"
-  },
-  {
-    "directory": "/home/jole/code/aoc/2024/day6",
-    "arguments": [
-      "/usr/bin/gcc",
-      "-Wall",
-      "-Wextra",
-      "-Wpedantic",
-      "main.c",
-      "../utils.c"
-    ],
-    "file": "main.c"
-  },
-  {
-    "directory": "/home/jole/code/aoc/2024/day7",
-    "arguments": [
-      "/usr/bin/gcc",
-      "-Wall",
-      "-Wextra",
-      "-Wpedantic",
-      "main.c",
-      "../utils.c"
-    ],
-    "file": "main.c"
-  },
-  {
-    "directory": "/home/jole/code/aoc/2024/day8",
-    "arguments": [
-      "/usr/bin/gcc",
-      "-Wall",
-      "-Wextra",
-      "-Wpedantic",
-      "main.c",
-      "../utils.c"
-    ],
-    "file": "main.c"
-  },
-  {
-    "directory": "/home/jole/code/aoc/2024/day9",
-    "arguments": [
-      "/usr/bin/gcc",
-      "-Wall",
-      "-Wextra",
-      "-Wpedantic",
-      "main.c",
-      "../utils.c"
-    ],
-    "file": "main.c"
-  },
-  {
-    "directory": "/home/jole/code/aoc/2024/day10",
-    "arguments": [
-      "/usr/bin/gcc",
-      "-Wall",
-      "-Wextra",
-      "-Wpedantic",
-      "main.c",
-      "../utils.c"
-    ],
-    "file": "main.c"
-  },
-  {
-    "directory": "/home/jole/code/aoc/2024/day11",
-    "arguments": [
-      "/usr/bin/gcc",
-      "-Wall",
-      "-Wextra",
-      "-Wpedantic",
-      "main.c",
-      "../utils.c"
-    ],
-    "file": "main.c"
-  },
-  {
-    "directory": "/home/jole/code/aoc/2024/day12",
-    "arguments": [
-      "/usr/bin/gcc",
-      "-Wall",
-      "-Wextra",
-      "-Wpedantic",
-      "main.c",
-      "../utils.c"
-    ],
-    "file": "main.c"
-  },
-  {
-    "directory": "/home/jole/code/aoc/2024/day13",
-    "arguments": [
-      "/usr/bin/gcc",
-      "-Wall",
-      "-Wextra",
-      "-Wpedantic",
-      "main.c",
-      "../utils.c"
-    ],
-    "file": "main.c"
-  },
-  {
-    "directory": "/home/jole/code/aoc/2024/day14",
-    "arguments": [
-      "/usr/bin/gcc",
-      "-Wall",
-      "-Wextra",
-      "-Wpedantic",
-      "main.c",
-      "../utils.c"
-    ],
-    "file": "main.c"
-  },
-  {
-    "directory": "/home/jole/code/aoc/2024/day15",
-    "arguments": [
-      "/usr/bin/gcc",
-      "-Wall",
-      "-Wextra",
-      "-Wpedantic",
-      "main.c",
-      "../utils.c"
-    ],
-    "file": "main.c"
-  },
-  {
-    "directory": "/home/jole/code/aoc/2024/day16",
-    "arguments": [
-      "/usr/bin/gcc",
-      "-Wall",
-      "-Wextra",
-      "-Wpedantic",
-      "main.c",
-      "../utils.c"
-    ],
-    "file": "main.c"
-  },
-  {
-    "directory": "/home/jole/code/aoc/2024/day17",
-    "arguments": [
-      "/usr/bin/gcc",
-      "-Wall",
-      "-Wextra",
-      "-Wpedantic",
-      "main.c",
-      "../utils.c"
-    ],
-    "file": "main.c"
-  },
-  {
-    "directory": "/home/jole/code/aoc/2024/day18",
-    "arguments": [
-      "/usr/bin/gcc",
-      "-Wall",
-      "-Wextra",
-      "-Wpedantic",
-      "main.c",
-      "../utils.c"
-    ],
-    "file": "main.c"
-  },
-  {
-    "directory": "/home/jole/code/aoc/2024/day19",
-    "arguments": [
-      "/usr/bin/gcc",
-      "-Wall",
-      "-Wextra",
-      "-Wpedantic",
-      "main.c",
-      "../utils.c"
-    ],
-    "file": "main.c"
-  },
-  {
-    "directory": "/home/jole/code/aoc/2024/day20",
-    "arguments": [
-      "/usr/bin/gcc",
-      "-Wall",
-      "-Wextra",
-      "-Wpedantic",
-      "main.c",
-      "../utils.c"
-    ],
-    "file": "main.c"
-  },
-  {
-    "directory": "/home/jole/code/aoc/2024/day21",
-    "arguments": [
-      "/usr/bin/gcc",
-      "-Wall",
-      "-Wextra",
-      "-Wpedantic",
-      "main.c",
-      "../utils.c"
-    ],
-    "file": "main.c"
-  },
-  {
-    "directory": "/home/jole/code/aoc/2024/day22",
-    "arguments": [
-      "/usr/bin/gcc",
-      "-Wall",
-      "-Wextra",
-      "-Wpedantic",
-      "main.c",
-      "../utils.c"
-    ],
-    "file": "main.c"
-  },
-  {
-    "directory": "/home/jole/code/aoc/2024/day23",
-    "arguments": [
-      "/usr/bin/gcc",
-      "-Wall",
-      "-Wextra",
-      "-Wpedantic",
-      "main.c",
-      "../utils.c"
-    ],
-    "file": "main.c"
-  },
-  {
-    "directory": "/home/jole/code/aoc/2024/day24",
-    "arguments": [
-      "/usr/bin/gcc",
-      "-Wall",
-      "-Wextra",
-      "-Wpedantic",
-      "main.c",
-      "../utils.c"
-    ],
-    "file": "main.c"
-  },
-  {
-    "directory": "/home/jole/code/aoc/2024/day25",
-    "arguments": [
-      "/usr/bin/gcc",
-      "-Wall",
-      "-Wextra",
-      "-Wpedantic",
-      "main.c",
-      "../utils.c"
-    ],
-    "file": "main.c"
-  }
+    {
+        "directory": "/home/jole/code/aoc/2024/day1",
+        "arguments": [
+            "/usr/bin/gcc",
+            "-Wall",
+            "-Wextra",
+            "-Wpedantic",
+            "main.c",
+            "../utils.c"
+        ],
+        "file": "main.c"
+    },
+    {
+        "directory": "/home/jole/code/aoc/2024/day2",
+        "arguments": [
+            "/usr/bin/gcc",
+            "-Wall",
+            "-Wextra",
+            "-Wpedantic",
+            "main.c",
+            "../utils.c"
+        ],
+        "file": "main.c"
+    },
+    {
+        "directory": "/home/jole/code/aoc/2024/day3",
+        "arguments": [
+            "/usr/bin/gcc",
+            "-Wall",
+            "-Wextra",
+            "-Wpedantic",
+            "main.c",
+            "../utils.c"
+        ],
+        "file": "main.c"
+    },
+    {
+        "directory": "/home/jole/code/aoc/2024/day4",
+        "arguments": [
+            "/usr/bin/gcc",
+            "-Wall",
+            "-Wextra",
+            "-Wpedantic",
+            "main.c",
+            "../utils.c"
+        ],
+        "file": "main.c"
+    },
+    {
+        "directory": "/home/jole/code/aoc/2024/day5",
+        "arguments": [
+            "/usr/bin/gcc",
+            "-Wall",
+            "-Wextra",
+            "-Wpedantic",
+            "main.c",
+            "../utils.c"
+        ],
+        "file": "main.c"
+    },
+    {
+        "directory": "/home/jole/code/aoc/2024/day6",
+        "arguments": [
+            "/usr/bin/gcc",
+            "-Wall",
+            "-Wextra",
+            "-Wpedantic",
+            "main.c",
+            "../utils.c"
+        ],
+        "file": "main.c"
+    },
+    {
+        "directory": "/home/jole/code/aoc/2024/day7",
+        "arguments": [
+            "/usr/bin/gcc",
+            "-Wall",
+            "-Wextra",
+            "-Wpedantic",
+            "main.c",
+            "../utils.c"
+        ],
+        "file": "main.c"
+    },
+    {
+        "directory": "/home/jole/code/aoc/2024/day8",
+        "arguments": [
+            "/usr/bin/gcc",
+            "-Wall",
+            "-Wextra",
+            "-Wpedantic",
+            "main.c",
+            "../utils.c"
+        ],
+        "file": "main.c"
+    },
+    {
+        "directory": "/home/jole/code/aoc/2024/day9",
+        "arguments": [
+            "/usr/bin/gcc",
+            "-Wall",
+            "-Wextra",
+            "-Wpedantic",
+            "main.c",
+            "../utils.c"
+        ],
+        "file": "main.c"
+    },
+    {
+        "directory": "/home/jole/code/aoc/2024/day10",
+        "arguments": [
+            "/usr/bin/gcc",
+            "-Wall",
+            "-Wextra",
+            "-Wpedantic",
+            "main.c",
+            "../utils.c"
+        ],
+        "file": "main.c"
+    },
+    {
+        "directory": "/home/jole/code/aoc/2024/day11",
+        "arguments": [
+            "/usr/bin/gcc",
+            "-Wall",
+            "-Wextra",
+            "-Wpedantic",
+            "main.c",
+            "../utils.c",
+            "-lm"
+        ],
+        "file": "main.c"
+    },
+    {
+        "directory": "/home/jole/code/aoc/2024/day12",
+        "arguments": [
+            "/usr/bin/gcc",
+            "-Wall",
+            "-Wextra",
+            "-Wpedantic",
+            "main.c",
+            "../utils.c"
+        ],
+        "file": "main.c"
+    },
+    {
+        "directory": "/home/jole/code/aoc/2024/day13",
+        "arguments": [
+            "/usr/bin/gcc",
+            "-Wall",
+            "-Wextra",
+            "-Wpedantic",
+            "main.c",
+            "../utils.c"
+        ],
+        "file": "main.c"
+    },
+    {
+        "directory": "/home/jole/code/aoc/2024/day14",
+        "arguments": [
+            "/usr/bin/gcc",
+            "-Wall",
+            "-Wextra",
+            "-Wpedantic",
+            "main.c",
+            "../utils.c"
+        ],
+        "file": "main.c"
+    },
+    {
+        "directory": "/home/jole/code/aoc/2024/day15",
+        "arguments": [
+            "/usr/bin/gcc",
+            "-Wall",
+            "-Wextra",
+            "-Wpedantic",
+            "main.c",
+            "../utils.c"
+        ],
+        "file": "main.c"
+    },
+    {
+        "directory": "/home/jole/code/aoc/2024/day16",
+        "arguments": [
+            "/usr/bin/gcc",
+            "-Wall",
+            "-Wextra",
+            "-Wpedantic",
+            "main.c",
+            "../utils.c"
+        ],
+        "file": "main.c"
+    },
+    {
+        "directory": "/home/jole/code/aoc/2024/day17",
+        "arguments": [
+            "/usr/bin/gcc",
+            "-Wall",
+            "-Wextra",
+            "-Wpedantic",
+            "main.c",
+            "../utils.c"
+        ],
+        "file": "main.c"
+    },
+    {
+        "directory": "/home/jole/code/aoc/2024/day18",
+        "arguments": [
+            "/usr/bin/gcc",
+            "-Wall",
+            "-Wextra",
+            "-Wpedantic",
+            "main.c",
+            "../utils.c"
+        ],
+        "file": "main.c"
+    },
+    {
+        "directory": "/home/jole/code/aoc/2024/day19",
+        "arguments": [
+            "/usr/bin/gcc",
+            "-Wall",
+            "-Wextra",
+            "-Wpedantic",
+            "main.c",
+            "../utils.c"
+        ],
+        "file": "main.c"
+    },
+    {
+        "directory": "/home/jole/code/aoc/2024/day20",
+        "arguments": [
+            "/usr/bin/gcc",
+            "-Wall",
+            "-Wextra",
+            "-Wpedantic",
+            "main.c",
+            "../utils.c"
+        ],
+        "file": "main.c"
+    },
+    {
+        "directory": "/home/jole/code/aoc/2024/day21",
+        "arguments": [
+            "/usr/bin/gcc",
+            "-Wall",
+            "-Wextra",
+            "-Wpedantic",
+            "main.c",
+            "../utils.c"
+        ],
+        "file": "main.c"
+    },
+    {
+        "directory": "/home/jole/code/aoc/2024/day22",
+        "arguments": [
+            "/usr/bin/gcc",
+            "-Wall",
+            "-Wextra",
+            "-Wpedantic",
+            "main.c",
+            "../utils.c"
+        ],
+        "file": "main.c"
+    },
+    {
+        "directory": "/home/jole/code/aoc/2024/day23",
+        "arguments": [
+            "/usr/bin/gcc",
+            "-Wall",
+            "-Wextra",
+            "-Wpedantic",
+            "main.c",
+            "../utils.c"
+        ],
+        "file": "main.c"
+    },
+    {
+        "directory": "/home/jole/code/aoc/2024/day24",
+        "arguments": [
+            "/usr/bin/gcc",
+            "-Wall",
+            "-Wextra",
+            "-Wpedantic",
+            "main.c",
+            "../utils.c"
+        ],
+        "file": "main.c"
+    },
+    {
+        "directory": "/home/jole/code/aoc/2024/day25",
+        "arguments": [
+            "/usr/bin/gcc",
+            "-Wall",
+            "-Wextra",
+            "-Wpedantic",
+            "main.c",
+            "../utils.c"
+        ],
+        "file": "main.c"
+    }
 ]
